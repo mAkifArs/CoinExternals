@@ -1,0 +1,15 @@
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\bin\Debug\net5.0\CoinExternal.Data.deps.json
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\bin\Debug\net5.0\CoinExternal.Data.runtimeconfig.json
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\bin\Debug\net5.0\CoinExternal.Data.runtimeconfig.dev.json
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\bin\Debug\net5.0\CoinExternal.Data.dll
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\bin\Debug\net5.0\ref\CoinExternal.Data.dll
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\bin\Debug\net5.0\CoinExternal.Data.pdb
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\obj\Debug\net5.0\CoinExternal.Data.csprojAssemblyReference.cache
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\obj\Debug\net5.0\CoinExternal.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\obj\Debug\net5.0\CoinExternal.Data.AssemblyInfoInputs.cache
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\obj\Debug\net5.0\CoinExternal.Data.AssemblyInfo.cs
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\obj\Debug\net5.0\CoinExternal.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\obj\Debug\net5.0\CoinExternal.Data.dll
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\obj\Debug\net5.0\ref\CoinExternal.Data.dll
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\obj\Debug\net5.0\CoinExternal.Data.pdb
+C:\Users\hp\RiderProjects\CoinExternal\CoinExternal.Data\obj\Debug\net5.0\CoinExternal.Data.genruntimeconfig.cache

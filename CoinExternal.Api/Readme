@@ -1,0 +1,2 @@
+dotnet ef migrations add New -s CoinExternal.Api\CoinExternal.Api.csproj -p CoinExternal.Data\CoinExternal.Data.csproj
+dotnet ef database update -s CoinExternal.Api\CoinExternal.Api.csproj -p CoinExternal.Data\CoinExternal.Data.csproj

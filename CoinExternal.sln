@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinExternal.Api", "CoinExternal.Api\CoinExternal.Api.csproj", "{1D36C51F-4524-4BD2-BDC0-63F41C199E44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinExternal.App", "CoinExternal.App\CoinExternal.App.csproj", "{EC8B8674-81AA-466A-856F-FACA59AF886C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinExternal.Data", "CoinExternal.Data\CoinExternal.Data.csproj", "{75901456-C61A-491A-9EE2-FB841EFE3DD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D36C51F-4524-4BD2-BDC0-63F41C199E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D36C51F-4524-4BD2-BDC0-63F41C199E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D36C51F-4524-4BD2-BDC0-63F41C199E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D36C51F-4524-4BD2-BDC0-63F41C199E44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC8B8674-81AA-466A-856F-FACA59AF886C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC8B8674-81AA-466A-856F-FACA59AF886C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC8B8674-81AA-466A-856F-FACA59AF886C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC8B8674-81AA-466A-856F-FACA59AF886C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75901456-C61A-491A-9EE2-FB841EFE3DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75901456-C61A-491A-9EE2-FB841EFE3DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75901456-C61A-491A-9EE2-FB841EFE3DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75901456-C61A-491A-9EE2-FB841EFE3DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
